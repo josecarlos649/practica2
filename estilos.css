@@ -1,0 +1,22 @@
+h1 img {
+position: absolute;
+left: 0px;
+}
+h2 img {
+    position: absolute;
+    left: 900px;
+}
+h3 img {
+    height: 150px;
+    width: 200px;
+    position: absolute;
+    left: 300px;
+    top: 220px;
+}
+h4 img {
+    height: 150px;
+    width: 200px;
+    position: absolute;
+    left: 1200px;
+    top: 220px;
+}
